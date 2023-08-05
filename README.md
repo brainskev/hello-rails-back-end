@@ -62,14 +62,14 @@ In order to run this project you need:
 
 ### Frontend
 
-Here is the [Front-End](https://github.com/Lucash2022/hello-react-front-end) of this app.
+Here is the [Front-End](https://github.com/brainskev/hello-react-front-end) of this app.
 
 ### Setup
 
 - Clone this repository to your desired folder:
 
 ```sh
- git clone https://github.com/Lucash2022/hello-rails-back-end.git
+ https://github.com/brainskev/hello-rails-back-end.git
 ```
 
 - Navigate into the cloned folder
@@ -104,12 +104,14 @@ Here is the [Front-End](https://github.com/Lucash2022/hello-react-front-end) of 
 <!-- AUTHORS -->
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Lucas Erkana**
+## Author
 
-- GitHub: [@Lucash2022](https://github.com/Lucash2022)
-- Twitter: [@Lucas_David_22](https://twitter.com/@Lucas_David_22)
-- LinkedIn: [Lucas Erkana](https://www.linkedin.com/in/lucas-erkana/)
-- Frontend Mentor - [@PLucash2022](https://www.frontendmentor.io/profile/Lucash2022)
+👤 **Kelvin kaviku**
+
+- GitHub: [@brainskev](https://github.com/brainskev/)
+- Twitter: [@kelvin_ngotho](https://twitter.com/kevin_ngotho?s=09/)
+- LinkedIn: [kelvin](https://www.linkedin.com/in/kelvinkaviku/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +121,7 @@ Here is the [Front-End](https://github.com/Lucash2022/hello-react-front-end) of 
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Lucash2022/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/brainskev/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
