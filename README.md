@@ -1,4 +1,5 @@
 <a name="readme-top"></a>
+
 <div align="center">
   <br/>
 
@@ -33,8 +34,11 @@
 Hello Rails Back-end is an tutorial for creating a Rails API with React Front-end. This project is a part of the Microverse curriculum. The goal is to create a Rails API and React Front-end that will display a random greeting from the database.
 
 ## 🛠 Built With <a name="built-with"></a>
+
 This app is build with Ruby on Rails and Postgresql.
+
 ### Tech Stack <a name="tech-stack"></a>
+
 > <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
 > <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
 > <li><a href="https://www.postgresql.org/">Postgresql</a></li>
@@ -42,6 +46,7 @@ This app is build with Ruby on Rails and Postgresql.
 ### Key Features <a name="key-features"></a>
 
 > - User can create a See a random Greeting
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -77,6 +82,7 @@ Here is the [Front-End](https://github.com/brainskev/hello-react-front-end) of t
 ```sh
  cd hello-rails-back-end
 ```
+
 ### Install
 
 - Install this project with:
@@ -102,6 +108,7 @@ Here is the [Front-End](https://github.com/brainskev/hello-react-front-end) of t
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
+
 ## 👥 Authors <a name="authors"></a>
 
 ## Author
@@ -111,7 +118,6 @@ Here is the [Front-End](https://github.com/brainskev/hello-react-front-end) of t
 - GitHub: [@brainskev](https://github.com/brainskev/)
 - Twitter: [@kelvin_ngotho](https://twitter.com/kevin_ngotho?s=09/)
 - LinkedIn: [kelvin](https://www.linkedin.com/in/kelvinkaviku/)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,6 +142,7 @@ If you like this project, please leave a ⭐️
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
 - I would like to thank Microverse for providing us with reading materials that aided us to during the project development
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -144,6 +151,6 @@ If you like this project, please leave a ⭐️
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
