@@ -1,7 +1,13 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the bin/rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
-#   Character.create(name: "Luke", movie: movies.first)
+Greeting.create(greeting: "Hello, World! in English")
+Greeting.create(greeting: "Ciao, Mondo! in Italian")
+Greeting.create(greeting: "Hola, Mundo! in Spanish")
+Greeting.create(greeting: "Hallo, Welt! in German")
+Greeting.create(greeting: "Bonjour, Monde! in French")
+Greeting.create(greeting: "こんにちは、世界! in Japanese")
+Greeting.create(greeting: "你好，世界! in Chinese")
+Greeting.create(greeting: "مرحبا بك في العالم! in Arabic")
+Greeting.create(greeting: "Salamu, Dunia! in Swahili")
+Greeting.create(greeting: "Mbote, Mokili! in Lingala")
+Greeting.create(greeting: "Molo, Iihlabathi! in Xhosa")
+Greeting.create(greeting: "Ndewo, Uwa! in Igbo")         
+Greeting.create(greeting: "Akwaaba, Wiase! in Twi")
